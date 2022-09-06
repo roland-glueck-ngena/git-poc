@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="rasse" table="x_667336_schwein_0_schweine" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>rasse</element>
+            <name>x_667336_schwein_0_schweine</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-06 12:54:06</sys_created_on>
+            <sys_id>647f3b0d97b111102203fed11153afb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>rasse</sys_name>
+            <sys_package display_value="Schweinemett" source="x_667336_schwein_0">c5842f7097f511102203fed11153afef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Schweinemett">c5842f7097f511102203fed11153afef</sys_scope>
+            <sys_update_name>sys_choice_x_667336_schwein_0_schweine_rasse</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-06 12:54:06</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rasse</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Angler Sattelschwein</label>
+            <language>en</language>
+            <name>x_667336_schwein_0_schweine</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-06 12:54:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b16f7bcd97b111102203fed11153af70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-06 12:54:05</sys_updated_on>
+            <value>Angler Sattelschwein</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rasse</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bentheimer Landschwein</label>
+            <language>en</language>
+            <name>x_667336_schwein_0_schweine</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-06 12:54:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>619f7fc997b111102203fed11153afd3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-06 12:54:43</sys_updated_on>
+            <value>Bentheimer Landschwein</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rasse</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deutsche Landrasse</label>
+            <language>en</language>
+            <name>x_667336_schwein_0_schweine</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-06 12:54:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b9ff7cd97b111102203fed11153af30</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-06 12:54:52</sys_updated_on>
+            <value>Deutsche Landrasse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rasse</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deutsches Sattelschwein</label>
+            <language>en</language>
+            <name>x_667336_schwein_0_schweine</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-06 12:55:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92affbcd97b111102203fed11153af8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-06 12:55:01</sys_updated_on>
+            <value>Deutsches Sattelschwein</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rasse</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rotbunte Husumer Schwein</label>
+            <language>en</language>
+            <name>x_667336_schwein_0_schweine</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-06 12:55:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>03bff7cd97b111102203fed11153aff0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-06 12:55:21</sys_updated_on>
+            <value>Rotbunte Husumer Schwein</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>rasse</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Schwäbisch-Hällische Landschwein</label>
+            <language>en</language>
+            <name>x_667336_schwein_0_schweine</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-06 12:54:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e8f734d97b111102203fed11153af8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-06 12:54:30</sys_updated_on>
+            <value>Schwäbisch-Hällische Landschwein</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

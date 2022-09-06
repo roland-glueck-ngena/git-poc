@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Schweine" max_length="40" name="x_667336_schwein_0_schweine" sizeclass="0" type="collection">
+        <element label="Gewicht in kg" max_length="4" name="gewicht_in_kg" type="integer"/>
+        <element label="Name" max_length="120" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="3" label="Rasse" max_length="40" name="rasse" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Angler Sattelschwein" value="Angler Sattelschwein"/>
+                <element inactive_on_update="false" label="Bentheimer Landschwein" value="Bentheimer Landschwein"/>
+                <element inactive_on_update="false" label="Deutsche Landrasse" value="Deutsche Landrasse"/>
+                <element inactive_on_update="false" label="Deutsches Sattelschwein" value="Deutsches Sattelschwein"/>
+                <element inactive_on_update="false" label="Rotbunte Husumer Schwein" value="Rotbunte Husumer Schwein"/>
+                <element inactive_on_update="false" label="Schwäbisch-Hällische Landschwein" value="Schwäbisch-Hällische Landschwein"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Schweine" max_length="40" name="x_667336_schwein_0_schweine" sizeclass="0" type="collection">
+    <element label="Schweine" max_length="40" name="x_667336_schwein_0_schweine" sizeclass="2" type="collection">
         <element label="Gewicht in kg" max_length="4" name="gewicht_in_kg" type="integer"/>
         <element label="Name" max_length="120" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
@@ -13,5 +13,6 @@
                 <element inactive_on_update="false" label="Schwäbisch-Hällische Landschwein" value="Schwäbisch-Hällische Landschwein"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Birthday" max_length="40" name="u_glide_date_1" type="glide_date"/>
     </element>
 </database>

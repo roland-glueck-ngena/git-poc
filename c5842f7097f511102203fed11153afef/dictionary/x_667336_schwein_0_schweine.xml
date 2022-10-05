@@ -13,5 +13,6 @@
                 <element inactive_on_update="false" label="Schwäbisch-Hällische Landschwein" value="Schwäbisch-Hällische Landschwein"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Birthday" max_length="40" name="u_glide_date_1" type="glide_date"/>
     </element>
 </database>
